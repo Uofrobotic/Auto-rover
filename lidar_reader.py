@@ -1,3 +1,12 @@
+    """git add .
+        git commit -m "Describe your updates here"
+        git push
+
+    """
+
+
+
+
 import serial
 import math
 import pygame
